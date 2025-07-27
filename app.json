@@ -2,7 +2,7 @@
     "name": "Gifted Session Generator",
     "description": "Web Session Generator",
     "logo": "https://files.catbox.moe/zmhz85.jpg",
-    "repository": "https://github.com/mauricegift/gifted-pair-code",
+    "repository": "https://github.com/kawaki-227/TST-S",
     "keywords": ["Gifted-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
